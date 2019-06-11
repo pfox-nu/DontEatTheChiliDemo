@@ -1,0 +1,6 @@
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliLib\bin\Debug\DontEatTheChiliLib.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliLib\bin\Debug\DontEatTheChiliLib.pdb
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliLib\obj\Debug\DontEatTheChiliLib.csprojAssemblyReference.cache
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliLib\obj\Debug\DontEatTheChiliLib.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliLib\obj\Debug\DontEatTheChiliLib.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliLib\obj\Debug\DontEatTheChiliLib.pdb

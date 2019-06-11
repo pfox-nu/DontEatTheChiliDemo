@@ -1,0 +1,16 @@
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\DontEatTheChiliTests.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\DontEatTheChiliTests.pdb
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\DontEatTheChiliLib.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\DontEatTheChiliLib.pdb
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\obj\Debug\DontEatTheChiliTests.csprojAssemblyReference.cache
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\obj\Debug\DontEatTheChiliTests.csproj.CoreCompileInputs.cache
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\obj\Debug\DontEatTheChiliTests.csproj.CopyComplete
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\obj\Debug\DontEatTheChiliTests.dll
+D:\Dropbox\Projects\dotNet\DontEatTheChili\DontEatTheChiliTests\obj\Debug\DontEatTheChiliTests.pdb
